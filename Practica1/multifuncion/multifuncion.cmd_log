@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/multifuncion.xst" -ofn "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/multifuncion.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 "multifuncion.ngc" multifuncion.ngd  
+map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o multifuncion_map.ncd multifuncion.ngd multifuncion.pcf 
+par -w -intstyle ise -ol high -t 1 multifuncion_map.ncd multifuncion.ncd multifuncion.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml multifuncion.twx multifuncion.ncd -o multifuncion.twr multifuncion.pcf 

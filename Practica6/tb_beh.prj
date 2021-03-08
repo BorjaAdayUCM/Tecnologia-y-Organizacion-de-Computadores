@@ -1,0 +1,5 @@
+vhdl work "../vhd/multi_it.vhd"
+vhdl work "../vhd/uc.vhd"
+vhdl work "../vhd/cd.vhd"
+vhdl work "../vhd/mult_ieee754.vhd"
+vhdl work "../vhd/tb.vhd"

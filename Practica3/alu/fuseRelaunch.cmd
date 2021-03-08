@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/hlocal/multifuncion/tb_multifuncion_isim_beh.exe" -prj "E:/hlocal/multifuncion/tb_multifuncion_beh.prj" "work.tb_multifuncion" 

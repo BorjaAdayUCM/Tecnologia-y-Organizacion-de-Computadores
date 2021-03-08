@@ -1,9 +1,0 @@
-V3 3
-FL "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/multifucion.vhd" 2017/11/15.01:03:20 P.20131013
-EN work/multifuncion 1542657140 \
-      FL "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/multifucion.vhd" \
-      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
-      PB ieee/STD_LOGIC_TEXTIO 1381692180 PB std/TEXTIO 1381692176
-AR work/multifuncion/Behavioral 1542657141 \
-      FL "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/multifucion.vhd" \
-      EN work/multifuncion 1542657140

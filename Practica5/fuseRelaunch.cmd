@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "E:/iselocal/practica5/tb_sort_isim_beh.exe" -prj "E:/iselocal/practica5/tb_sort_beh.prj" "work.tb_sort" 

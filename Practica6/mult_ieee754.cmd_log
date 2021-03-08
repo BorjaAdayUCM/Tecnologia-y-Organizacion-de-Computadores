@@ -1,9 +1,0 @@
-xst -intstyle ise -ifn "C:/hlocal/Ptactica6/mult_ieee754.xst" -ofn "C:/hlocal/Ptactica6/mult_ieee754.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 mult_ieee754.ngc mult_ieee754.ngd  
-map -intstyle ise -p xc3s1000-ft256-5 -cm area -ir off -pr off -c 100 -o mult_ieee754_map.ncd mult_ieee754.ngd mult_ieee754.pcf 
-par -w -intstyle ise -ol high -t 1 mult_ieee754_map.ncd mult_ieee754.ncd mult_ieee754.pcf 
-trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml mult_ieee754.twx mult_ieee754.ncd -o mult_ieee754.twr mult_ieee754.pcf 
-bitgen -intstyle ise -f mult_ieee754.ut mult_ieee754.ncd 
-xst -intstyle ise -ifn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.xst" -ofn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.syr" 
-xst -intstyle ise -ifn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.xst" -ofn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.syr" 
-xst -intstyle ise -ifn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.xst" -ofn "C:/Users/BorjaAday/Desktop/iselocal/Ptactica6/mult_ieee754.syr" 

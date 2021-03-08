@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/tb_multifuncion_isim_beh.exe" -prj "C:/Users/BorjaAday/Desktop/Programas de Desarrollo/ISE/Practica1/multifuncion/tb_multifuncion_beh.prj" "work.tb_multifuncion" 

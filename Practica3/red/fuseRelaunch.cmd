@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "E:/hlocal/practica3_red/tb_iterative_1d_isim_beh.exe" -prj "E:/hlocal/practica3_red/tb_iterative_1d_beh.prj" "work.tb_iterative_1d" 

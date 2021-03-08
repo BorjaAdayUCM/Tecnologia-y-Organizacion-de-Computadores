@@ -1,8 +1,0 @@
-AR cd behavioral C:/Users/BorjaAday/Desktop/iselocal/vhd/cd.vhd sub00/vhpl03 1516383974
-EN cd NULL C:/Users/BorjaAday/Desktop/iselocal/vhd/cd.vhd sub00/vhpl02 1516383973
-AR mult_ieee754 struct C:/Users/BorjaAday/Desktop/iselocal/vhd/mult_ieee754.vhd sub00/vhpl07 1516383978
-EN mult_ieee754 NULL C:/Users/BorjaAday/Desktop/iselocal/vhd/mult_ieee754.vhd sub00/vhpl06 1516383977
-AR multi_it behavioral C:/Users/BorjaAday/Desktop/iselocal/vhd/multi_it.vhd sub00/vhpl01 1516383972
-AR uc behavioral C:/Users/BorjaAday/Desktop/iselocal/vhd/uc.vhd sub00/vhpl05 1516383976
-EN multi_it NULL C:/Users/BorjaAday/Desktop/iselocal/vhd/multi_it.vhd sub00/vhpl00 1516383971
-EN uc NULL C:/Users/BorjaAday/Desktop/iselocal/vhd/uc.vhd sub00/vhpl04 1516383975

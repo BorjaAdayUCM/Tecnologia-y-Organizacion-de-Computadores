@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\hlocal\practica2a\contador.ncd
-OUTFILE=C:\hlocal\practica2a\contador.bit
-FAMILY=Spartan3
-PART=xc3s1000-5ft256
-WORKINGDIR=C:\hlocal\practica2a
-LICENSE=WebPack
-USER_INFO=210699396_1777489394_210552810_807

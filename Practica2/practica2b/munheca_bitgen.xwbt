@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\BorjaAday\Desktop\hlocal\practica2b\munheca.ncd
-OUTFILE=C:\Users\BorjaAday\Desktop\hlocal\practica2b\munheca.bit
-FAMILY=Spartan3
-PART=xc3s1000-5ft256
-WORKINGDIR=C:\Users\BorjaAday\Desktop\hlocal\practica2b
-LICENSE=WebPack
-USER_INFO=211407593_0_0_273

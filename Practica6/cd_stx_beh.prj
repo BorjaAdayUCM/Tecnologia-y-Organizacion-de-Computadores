@@ -1,2 +1,0 @@
-vhdl isim_temp "../vhd/multi_it.vhd"
-vhdl isim_temp "../vhd/cd.vhd"
